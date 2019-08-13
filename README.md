@@ -39,10 +39,10 @@ With these studies may provide some advice to help people have a better understa
 ## File Descriptions <a name="files"></a>
 
 Repository Data contains the house traded data in Beijing from the year 2011 to 2017, fetching from Lianjia.com.
+Repository Pics contains images used in the jupyter notebook.
 
 There is also a notebook [A_Study_of_housing_price_in_Beijing.ipynb](https://github.com/zhangyu-paris/Udacity_Capstone_Project/blob/master/A_Study_of_housing_price_in_Beijing.ipynb) available here  to showcsae all my work related to the questions and model.
-
-
+And a html [A_Study_of_housing_price_in_Beijing.html](https://github.com/zhangyu-paris/Udacity_Capstone_Project/blob/master/A_Study_of_housing_price_in_Beijing.html) file is generated based on this notebook.
 
 
 ## Results<a name="results"></a>
