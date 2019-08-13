@@ -47,8 +47,7 @@ There is also a notebook [A_Study_of_housing_price_in_Beijing.ipynb](https://git
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [post](https://medium.com/@zhangyu19900418) available
-
+The main findings of the code can be found at the [post](https://medium.com/@zhangyu19900418/housing-price-in-beijing-study-and-model-prediction-beff87bde135) available
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
